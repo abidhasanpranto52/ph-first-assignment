@@ -112,13 +112,13 @@ p {
 
 /* resume Section */
 
-.resume-container{
+.resume-container {
     padding: 50px 0px;
     box-sizing: border-box;
     background: rgba(248, 214, 214, 0.144);
     overflow: hidden;
 }
-.resume-title{
+.resume-title {
     font-size: 45px;
     font-family: "Poppins", sans-serif;
     font-weight: 700;
@@ -126,21 +126,21 @@ p {
     margin-bottom: 50px;
     text-align: center;
 }
-.resume{
+.resume {
     display: flex;
     justify-content: center;
     gap: 40px;
 }
-.resume-content-title{
+.resume-content-title {
     margin-bottom: 10px;
     font-weight: normal;
     font-size: 35px;
 }
-.resume-title span{
+.resume-title span {
     color: #ff651c;
     font-size: 45px;
 }
-.resume-description{
+.resume-description {
     padding: 20px 30px;
     justify-content: center;
     height: 145px;
@@ -150,23 +150,22 @@ p {
     box-shadow: 0px 0px 5px rgba(128, 128, 128, 0.739);
     margin-bottom: 20px;
 }
-.resume-description h2{
+.resume-description h2 {
     color: #ff651c;
     margin-bottom: 15px;
     text-align: left;
     font-size: 25px;
     font-family: "Jost", sans-serif;
 }
-.resume-description h4{
+.resume-description h4 {
     margin-bottom: 10px;
     font-size: 18px;
     font-family: "Jost", sans-serif;
 }
-.resume-description p{
+.resume-description p {
     color: #888;
     font-size: 20px;
 }
-
 
 /* call */
 .call-us {
