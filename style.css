@@ -110,6 +110,64 @@ p {
     font-weight: 550;
 }
 
+/* resume Section */
+
+.resume-container{
+    padding: 50px 0px;
+    box-sizing: border-box;
+    background: rgba(248, 214, 214, 0.144);
+    overflow: hidden;
+}
+.resume-title{
+    font-size: 45px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: #151414;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.resume{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.resume-content-title{
+    margin-bottom: 10px;
+    font-weight: normal;
+    font-size: 35px;
+}
+.resume-title span{
+    color: #ff651c;
+    font-size: 45px;
+}
+.resume-description{
+    padding: 20px 30px;
+    justify-content: center;
+    height: 145px;
+    background: white;
+    border-left: 3px solid #ff651c;
+    border-radius: 11px;
+    box-shadow: 0px 0px 5px rgba(128, 128, 128, 0.739);
+    margin-bottom: 20px;
+}
+.resume-description h2{
+    color: #ff651c;
+    margin-bottom: 15px;
+    text-align: left;
+    font-size: 25px;
+    font-family: "Jost", sans-serif;
+}
+.resume-description h4{
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-family: "Jost", sans-serif;
+}
+.resume-description p{
+    color: #888;
+    font-size: 20px;
+}
+
+
 /* call */
 .call-us {
     padding: 150px 300px;
